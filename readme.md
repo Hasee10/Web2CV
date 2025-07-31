@@ -1,167 +1,126 @@
-<!-- ✨ Animated Typing Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=2D6CDF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Haseeb+Arshad!;ML+%7C+Web+%7C+Game+Dev+Enthusiast;React%2C+Python%2C+UI%2FUX+Lover;Let's+Build+Something+Awesome!;Passionate+Data+Scientist" width = "50%" alt="Typing SVG" />
-</p>
+<div align="left">
+  <a href="https://app.daily.dev/haseebasif" target="_blank">
+    <img
+      width="300"
+      height="400"
+      align="right"
+      src="https://github.com/Haseebasif7/Haseebasif7/blob/main/devcard.png" alt="Haseeb's Dev Card"
+    />
+  </a>
+</div>
 
-<!-- 🔥 Animated Coding GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" alt="Coding Animated" />
-</p>
+<div align="left">
+  <h1>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    Hey there! I'm <span style="color: #7B68EE">Haseeb Asif</span>
+  </h1>
+</div>
 
-<!-- 🔢 Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hasee10&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<div align="left">
+  <a href="https://drive.google.com/file/d/1JQDDLJNzSfM0Jlpm909IYACaCvJwUPh1/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/>
+  </a>
+  <a href="https://haseebportfolio-flame.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/haseeb-asif-4400212a0/">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.kaggle.com/mhaseebasif">
+    <img src="https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=20BEFF" alt="Kaggle"/>
+  </a>
+</div>
 
-<!-- 🏆 GitHub Profile Trophy -->
+<br>
+
+<div align="left">
+  <p align="left" style="font-size: 16px;">
+    <strong>🎓 A passionate Computer Science undergrad crafting elegant solutions through code</strong><br>
+    <strong>🤖 Currently Learning Self Driving Cars Perception </strong><br>
+    <strong>🤖 Diving deep into Machine Learning and Deep Learning innovations</strong><br>
+  </p>
+</div>
+
+<a>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=haseebasif7&show_icons=true&theme=dark"/>
+</a>
+
+<div align="center" style="margin-top: 50px;">
+  <p align="center">
+    <img align="left" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=haseebasif7&theme=dark" alt="GitHub Streak Stats - haseebasif7" />
+    <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haseebasif7&layout=compact&theme=dark&langs_count=8" alt="Top Languages - haseebasif7" />
+  </p>
+</div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hasee10&theme=gruvbox&title=Stars,Followers,Commits,Repositories,Issues,PullRequest" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=haseebasif7&theme=darkhub&row=1" alt="haseebasif7"/>
   </a>
 </p>
 
----
+<h3 align="center"> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 18px> Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 18px> </h3>
 
-<!-- 👤 About Me Section -->
-<h2 align="center">📘 About Me</h2>
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="60"/>
-  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="60"/>
-</div>
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200"/>
-    </td>
-    <td>
-      <ul>
-        <li>🔭 <strong>Currently Working On:</strong> <code>MLOPs Pipeline for USL</code> — a full CI/CD solution showcasing modern system design and implementation.</li>
-        <li>🌱 <strong>Actively Learning:</strong> DevOps 🚀 | MLOps 🤖 | Tableau 📊 | Power BI 📈</li>
-        <li>🤝 <strong>Open to Collaborate:</strong> Looking for passionate developers to co-build innovative <code>ML Pipelines</code> & <code>Web based Applications</code>.</li>
-        <li>🖥 <strong>Featured Project:</strong> <a href="https://hasee10.github.io/Personal_Website/" target="_blank">Portfolio Website</a> — blending sleek UI/UX with   backend functionality.</li>
-        <li>💬 <strong>Ask Me About:</strong> React ⚛ | Firebase 🔥 | FastAPI ⚡</li>
-        <li>📫 <strong>Contact:</strong> <a href="mailto:ihaseebarshad10@gmail.com">ihaseebarshad10@gmail.com</a></li>
-        <li>📄 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/haseeb-arshad-09881b347" target="_blank">Let’s connect</a> and build something meaningful!</li>
-        <li>⚽ <strong>Fun Fact:</strong> Chef AND Footballer | MUN enthusiast 🎙</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white)
+![TorchServe](https://img.shields.io/badge/TorchServe-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-%23000000.svg?style=flat&logo=google&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-%230087C6.svg?style=flat&logo=onnx&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-%23000000.svg?style=flat&logo=mlflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%23121011.svg?style=flat&logo=LangChain&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-%2300C7B7.svg?style=flat&logo=fastapi&logoColor=white)
+![Ray](https://img.shields.io/badge/Ray-%23000000.svg?style=flat&logo=ray&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-%23017CEE.svg?style=flat&logo=apache-airflow&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=flat&logo=streamlit&logoColor=white)
+![Selenium](https://img.shields.io/badge/selenium-%234ea94b.svg?style=flat&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![Pinecone](https://img.shields.io/badge/pinecone-%2300BFA6.svg?style=flat&logo=pinecone&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-%23000000.svg?style=flat&logo=buffer&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-%23000000.svg?style=flat&logo=search&logoColor=white)
+![Discord.py](https://img.shields.io/badge/discord.py-%237289DA.svg?style=flat&logo=discord&logoColor=white)
+![Model Context Protocol](https://img.shields.io/badge/MCP-%23121011.svg?style=flat&logo=protocols&logoColor=white)
+![CursorAI](https://img.shields.io/badge/CursorAI-%23000000.svg?style=flat&logo=cursor&logoColor=white)
+![V0](https://img.shields.io/badge/V0-%23000000.svg?style=flat&logo=vercel&logoColor=white)
+![Hugging Face Spaces](https://img.shields.io/badge/HuggingFace%20Spaces-%23FFD21F.svg?style=flat&logo=huggingface&logoColor=black)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-%236E6EED.svg?style=flat&logo=obsidian&logoColor=white)
 
----
 
-<!-- 🧠 My Interests & Real World Applications -->
-<h2 align="center">🌍 Interests & Real-World Applications</h2>
-<p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="60%" />
 </p>
-
-<ul>
-  <li>📱 <strong>UI/UX Design:</strong> Passionate about intuitive, human-centered web interfaces with real-world use cases like e-commerce and productivity apps.</li>
-  <li>🧠 <strong>Machine Learning:</strong> Interested in building smart recommendation systems, fraud detection, and health-tech prediction apps.</li>
-  <li>🎮 <strong>Game Dev:</strong> Love combining algorithms + creativity to develop strategic, story-driven games in Unity or Python.</li>
-  <li>🔗 <strong>DevOps/MLOps:</strong> Automating workflows and CI/CD pipelines for ML lifecycle — making models deployable and production-ready.</li>
-  <li>📊 <strong>Data Visualization:</strong> Creating dashboards using Tableau, Power BI, and Plotly for decision-making in businesses and institutions.</li>
-</ul>
-
+<h3 align="center"><em>Let's connect around the web</em></h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF61C9&center=true&vCenter=true&width=800&lines=Tech+can+change+the+world.;Build+with+purpose+and+passion.;Always+learning%2C+always+evolving+%F0%9F%94%8E"/>
-</p>
-
----
-
-<!-- 🛠 Skills & Tools -->
-<h2 align="center">🛠 Tech Stack & Tools</h2>
-
-<p align="center">
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white"/>
-
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
-
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-  <!-- DevOps / Cloud -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
-
-  <!-- Data / BI Tools -->
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
-
-  <!-- Version Control & Others -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
-
----
-
-<!-- 💬 Motivational Developer Quotes -->
-<h2 align="center">🧠 Developer Quotes</h2>
-<blockquote align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="60" />
-  <b>"Code is like humor. When you have to explain it, it's bad."</b>
-  <br/>
-  <i>- Cory House</i>
-</blockquote>
-
-<blockquote align="center">
-  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="60" />
-  <b>"Simplicity is the soul of efficiency."</b>
-  <br/>
-  <i>- Austin Freeman</i>
-</blockquote>
-
----
-
-<!-- 🌐 Social Links -->
-<h2 align="center">🌐 Connect with Me</h2>
-<p align="center">
-  <a href="https://twitter.com/hase60135"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/haseeb-arshad-09881b347"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/ihaseebarshad10"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.hackerrank.com/ihaseebarshad10"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-</p>
-
-<!-- 📈 GitHub Stats -->
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=hasee10&show_icons=true&count_private=true&theme=radical&hide_border=true&include_all_commits=true" width="48%"/>
-
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasee10&layout=compact&theme=radical&hide_border=true" width="48%"/>
-</p>
-
-<p align="center">
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hasee10&theme=radical&hide_border=true" width="60%"/>
-</p>
-
-<!-- 🏁 Footer Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=150&section=footer"/>
-</p>
+  <a href="https://www.kaggle.com/mhaseebasif" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mhaseebasif" height="30" width="40" />
+  </a>
+  <a href="https://discord.com/users/haseebloll" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="haseebloll" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/haseeb-asif-4400212a0/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haseeb asif" height="30" width="40" />
+  </a>
+  <a href="https://app.daily.dev/haseebasif" target="_blank">
+    <img src="https://img.shields.io/badge/Daily.dev-0A0A0A?style=flat&logo=daily.dev&logoColor=white" alt="daily.dev" height="30" />
+  </a>
+</p>  
