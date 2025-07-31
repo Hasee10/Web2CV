@@ -47,8 +47,8 @@
 
 <div align="center" style="margin-top: 50px;">
   <p align="center">
-    <img align="left" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=haseebasif7&theme=dark" alt="GitHub Streak Stats - haseebasif7" />
-    <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haseebasif7&layout=compact&theme=dark&langs_count=8" alt="Top Languages - haseebasif7" />
+    <img align="left" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Hasee10&theme=dark" alt="GitHub Streak Stats - Hasee10" />
+    <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasee10&layout=compact&theme=dark&langs_count=8" alt="Top Languages - Hasee10" />
   </p>
 </div>
 
@@ -64,7 +64,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=haseebasif7&theme=darkhub&row=1" alt="haseebasif7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=haseebasif7&theme=darkhub&row=1" alt="Hasee10"/>
   </a>
 </p>
 
@@ -111,16 +111,16 @@
 </p>
 <h3 align="center"><em>Let's connect around the web</em></h3>
 <p align="center">
-  <a href="https://www.kaggle.com/mhaseebasif" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mhaseebasif" height="30" width="40" />
+  <a href="https://www.kaggle.com/haseebarshaddddd" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Hasee10" height="30" width="40" />
   </a>
-  <a href="https://discord.com/users/haseebloll" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="haseebloll" height="30" width="40" />
+  <a href="https://discord.com/users/HaseCorp" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="HaseCorp" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/haseeb-asif-4400212a0/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haseeb asif" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/haseeb-arshad-09881b347/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Haseeb Arshad" height="30" width="40" />
   </a>
-  <a href="https://app.daily.dev/haseebasif" target="_blank">
+  <a href="https://app.daily.dev/haseebarshad46" target="_blank">
     <img src="https://img.shields.io/badge/Daily.dev-0A0A0A?style=flat&logo=daily.dev&logoColor=white" alt="daily.dev" height="30" />
   </a>
 </p>  
