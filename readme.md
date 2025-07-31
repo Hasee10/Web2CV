@@ -1,10 +1,10 @@
 <div align="left">
-  <a href="https://app.daily.dev/haseebasif" target="_blank">
+  <a href="https://app.daily.dev/haseebarshad46" target="_blank">
     <img
       width="300"
       height="400"
       align="right"
-      src="https://github.com/Haseebasif7/Haseebasif7/blob/main/devcard.png" alt="Haseeb's Dev Card"
+      src="https://github.com/Hasee10/haseebarshad46/blob/main/devcard.png" alt="Haseeb's Dev Card"
     />
   </a>
 </div>
@@ -12,15 +12,15 @@
 <div align="left">
   <h1>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    Hey there! I'm <span style="color: #7B68EE">Haseeb Asif</span>
+    Hey there! I'm <span style="color: #7B68EE">Haseeb Arshad</span>
   </h1>
 </div>
 
 <div align="left">
-  <a href="https://drive.google.com/file/d/1JQDDLJNzSfM0Jlpm909IYACaCvJwUPh1/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1vZg0-EZrusYFINjmnpvl5FDU3Aw3JYkD/view">
     <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/>
   </a>
-  <a href="https://haseebportfolio-flame.vercel.app/">
+  <a href="https://mlengineer.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/haseeb-asif-4400212a0/">
@@ -35,9 +35,9 @@
 
 <div align="left">
   <p align="left" style="font-size: 16px;">
-    <strong>🎓 A passionate Computer Science undergrad crafting elegant solutions through code</strong><br>
-    <strong>🤖 Currently Learning Self Driving Cars Perception </strong><br>
-    <strong>🤖 Diving deep into Machine Learning and Deep Learning innovations</strong><br>
+    <strong>🎓 A passionate Data Science undergrad crafting elegant solutions through code and design</strong><br>
+    <strong>🤖 Currently Learning Data Analysis and Visualization Coupled with some AI and ML models automation</strong><br>
+    <strong>🤖 Diving deep into Machine Learning and Deep Learning innovations and enhancing them with OpenCV</strong><br>
   </p>
 </div>
 
