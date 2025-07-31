@@ -23,10 +23,10 @@
   <a href="https://mlengineer.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://www.linkedin.com/in/haseeb-asif-4400212a0/">
+  <a href="https://www.linkedin.com/in/haseeb-arshad-09881b347">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
   </a>
-  <a href="https://www.kaggle.com/mhaseebasif">
+  <a href="https://www.kaggle.com/haseebarshaddddd">
     <img src="https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=20BEFF" alt="Kaggle"/>
   </a>
 </div>
