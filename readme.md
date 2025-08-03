@@ -4,11 +4,12 @@
       width="300"
       height="400"
       align="right"
-      src="https://raw.githubusercontent.com/Hasee10/haseebarshad46/main/devcard.png"
+      src="https://github.com/Hasee10/haseebarshad46/blob/main/devcard.png?raw=true"
       alt="Haseeb's Dev Card"
     />
   </a>
 </div>
+
 
 
 <div align="left">
